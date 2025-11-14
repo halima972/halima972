@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist.
 ---------------
 
-I am currently studying Data science at Arewa Data Science Academy. I am also currently working on a project in the above academy called 30 Days Of Python.
-
 *   🌍  I'm based in Kaduna state, Nigeria.
 *   ✉️  You can contact me at [halimaladan972@gmail.com](mailto:halimaladan972@gmail.com)
 *   🧠  I'm learning Python
