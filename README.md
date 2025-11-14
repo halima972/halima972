@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sadiya Abdullahi Ladan.
 ===============================================================================================================================================
 
-Data Scientist|Eithcal Hacker.
+Data Scientist.
 ---------------
 
 I am currently studying Data science at Arewa Data Science Academy. I am also currently working on a project in the above academy called 30 Days Of Python.
